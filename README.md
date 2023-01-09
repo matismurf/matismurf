@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Matias and i like program, my dreams are make this world a little better with technology and hard work.
+
+My tools: React, NodeJS, SQLServer, JavaScript, Python, C#
+
+“Hate is a place, where a man who can’t stand sadness goes.”
+
 <!--
 **matismurf/matismurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
